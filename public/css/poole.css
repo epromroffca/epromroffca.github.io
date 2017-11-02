@@ -229,9 +229,12 @@ blockquote p:last-child {
 
 img {
   display: block;
-  max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px;
+	flex-shrink: 1;
+	min-width: 0;
+	height: auto;
+	width: 100%;
+	align-self: flex-start;
+	margin-right: .5rem;
 }
 
 /* Tables */
