@@ -3,6 +3,8 @@ layout: page
 title: Gallery
 ---
 
+Event dan lomba-lomba yang diikuti EPROM.
+
 ### Pameran Robot Al Fityan
 
 <table>
