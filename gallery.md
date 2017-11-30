@@ -231,6 +231,30 @@ Event dan lomba-lomba yang diikuti EPROM.
   </tr>
 </table>
 
+### Line Follower Alauddin Informatic Festival
+
+<table>
+  <tr>
+    <td>
+      <img src="https://image.ibb.co/nuwf9b/1.jpg">
+    </td>
+    <td>
+      <img src="https://image.ibb.co/d2HWFG/2.jpg">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="https://image.ibb.co/jtSyvG/3.jpg">
+    </td>
+    <td>
+      <img src="https://image.ibb.co/guRDUb/4.jpg">
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
